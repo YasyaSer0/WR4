@@ -526,7 +526,6 @@ Applications → System → Synaptic Package Manager
 ```bash
 mpv
 ```
-Система відобразила список доступних пакетів.
 
 <img width="794" height="378" alt="image" src="https://github.com/user-attachments/assets/6310aa08-b57a-4e96-bbd2-3df9b2a5bbd7" />
 
