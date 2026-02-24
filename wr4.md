@@ -528,6 +528,7 @@ mpv
 ```
 Система відобразила список доступних пакетів.
 
+<img width="794" height="378" alt="image" src="https://github.com/user-attachments/assets/6310aa08-b57a-4e96-bbd2-3df9b2a5bbd7" />
 
 Скрін 23 - Пошук пакета mpv у Synaptic
 
@@ -588,3 +589,19 @@ mpv --version
 
 Порівняно з терміналом, графічний інтерфейс є більш зручним для початківців, однак функціонально використовує той самий механізм APT.
 
+## Conclusion
+
+During the completion of Work-case 4, the principles of package management in the Linux operating system were studied.
+
+The concepts of a package and a repository were analyzed, and an overview of common Linux package managers was provided.
+
+In the practical part of the work, it was determined that Ubuntu uses the APT package manager. Using terminal commands, the following operations were performed:
+- searching for required packages;
+- installing software;
+- viewing package information;
+- removing unnecessary programs;
+- updating the system.
+
+Additionally, software installation through the graphical package manager Synaptic was demonstrated, confirming that software management in Linux can be performed both via the command line and through a graphical interface.
+
+The acquired skills enable efficient installation, updating, and administration of software in the Linux operating system.
