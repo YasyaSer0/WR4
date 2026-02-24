@@ -518,7 +518,7 @@ Applications → System → Synaptic Package Manager
 
 <img width="956" height="1280" alt="image" src="https://github.com/user-attachments/assets/80783a35-4a3a-4396-a3f2-0cab2a011a19" />
 
-Скрін 22 -апуск Synaptic через меню Applications
+Скрін 22 - Запуск Synaptic через меню Applications
 
 - Крок 2. Пошук пакета
 
